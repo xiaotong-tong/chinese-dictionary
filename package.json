@@ -1,0 +1,20 @@
+{
+  "name": "chinese-dictionary",
+  "version": "1.0.0",
+  "description": "本词典主要收录了常用字基本信息，多音字，汉字基本解释，常用词汇、常用成语读音。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaotong-tong/chinese-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaotong-tong/chinese-dictionary/issues"
+  },
+  "homepage": "https://github.com/xiaotong-tong/chinese-dictionary#readme"
+}
